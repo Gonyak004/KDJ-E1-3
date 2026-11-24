@@ -51,7 +51,7 @@ Python 콘솔 프로그램 만들기: 2차원 배열, MAC 연산, JSON 데이터
 | 시간 측정 | `time.perf_counter()` / 방식별 1,000회 평균 |
 | 테스트 | 표준 라이브러리 `unittest` / 11개 테스트 통과 |
 
-주요 표준 라이브러리는 `json`, `math`, `re`, `pathlib`, `time`입니다. NumPy나 pandas는 사용하지 않았으며, MAC 연산은 반복문으로 직접 작성했습니다.
+주요 표준 라이브러리는 `json`, `math`, `re`, `pathlib`, `time`입니다. NumPy나 pandas는 사용하지 않았으며, MAC 연산은 반복문으로 작성하였습니다.
 
 실행 환경의 Python 버전은 다음 명령으로 확인할 수 있습니다.
 
